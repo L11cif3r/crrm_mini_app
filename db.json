@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sourav",
+      "email": "sourav@example.com"
+    },
+    {
+      "id": "f0f6",
+      "name": "dfghjkjhgfd",
+      "email": "cvbnmmn",
+      "password": "12345678"
+    },
+    {
+      "id": "bbde",
+      "name": "john",
+      "email": "jonybi@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "9d5c",
+      "name": "Hai",
+      "email": "aghajn",
+      "password": "1234"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Acme Corp",
+      "contact": "acme@example.com"
+    },
+    {
+      "name": "John",
+      "email": "jony@gmail.com",
+      "id": "c6bb"
+    },
+    {
+      "id": "2bd3",
+      "name": "Ice keik",
+      "email": "iceyice@gmail.com"
+    }
+  ],
+  "leads": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "status": "Interested"
+    }
+  ]
+}
